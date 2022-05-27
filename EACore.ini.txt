@@ -1,0 +1,9 @@
+[connection]
+
+EnvironmentName=production
+
+
+
+[Feature]
+
+CdnOverride=akamai
